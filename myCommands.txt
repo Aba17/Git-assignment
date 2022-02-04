@@ -1,0 +1,142 @@
+  100  mkdir font
+  101  cd font
+  102  git init
+  103  cat > data
+  104  git add .
+  105  ls
+  106  git commit -m "my first commit"
+  107  git push
+  108  cd ../
+  109  ls
+  110  AMMI-git
+  111  mkdir AMMI-git
+  112  cd AMMI-git
+  113  mkdir Aba_fadila
+  114  cd ../..
+  115  cdls
+  116  ls
+  117  cd aba
+  118  mkdir AMMI-first
+  119  mv AMMI-first AMMI-git
+  120  ls
+  121  touch identity.txt
+  122  rm identity.txt
+  123  cd AMMI-git
+  124  touch identity.txt
+  125  vim identity.txt
+  126  nano identity.txt
+  127  git init
+  128  git status
+  129  ls
+  130  ls -a
+  131  git --list
+  132  git add .
+  133  git status
+  134  git commit -m "my first comment"
+  135  git remote https://github.com/Aba17/Abafront.git
+  136  git remote add Abafront https://github.com/Aba17/Abafront.git
+  137  git push 
+  138  git remote add Abafront https://github.com/Aba17/Abafront.git
+  139  git remote add origin https://github.com/Aba17/Abafront.git
+  140  git push -u origin main
+  141  git push -u origin main
+  142  git push -u origin master
+  143  git push -u origin master
+  144  git push -u origin main
+  145  git push -u origin master
+  146  git remote -v
+  147  git branch
+  148  git remote -v
+  149  git push -u origin master
+  150  ssh-keygen -t rsa -b 2048
+  151  git remote add joseph
+  152  ls
+  153  cd AMMI-git
+  154  ls
+  155  git remote add New https://github.com/Aba17/Abafront.git
+  156  git remote -v
+  157  git push New marster
+  158  git status
+  159  git status
+  160  git status
+  161  git status
+  162  git add>
+  163  git add identity.txt
+  164  git status
+  165  git status
+  166  git status
+  167  git status
+  168  cls
+  169  ls
+  170  cd Desktop
+  171  ls
+  172  cd Work
+  173  cd Thesis
+  174  cd Ambre/ambre_front
+  175  ls
+  176  npm clean install
+  177  npm clean
+  178  npm clean-install
+  179  cd ../
+  180  cd ../
+  181  ls
+  182  cd ../../
+  183  cd ../
+  184  ls
+  185  cd AMMI-git
+  186  LS
+  187  ls
+  188  cd ../Desktop
+  189  cd Work/AMMI
+  190  ls
+  191  mkdir CLASS
+  192  cd CLASS
+  193  mkdir Git
+  194  cd Git
+  195  mkdir AMMI-git
+  196  cd AMMI-git
+  197  mkdir Ababacar_Diokhane
+  198  cd ..
+  199  mkdir AMMI-first
+  200  mv AMMI-first AMMI-git
+  201  cd AMMI-git
+  202  touch identity.txt
+  203  nano identity.txt
+  204  git init
+  205  git statua
+  206  git status
+  207  git add .
+  208  git status
+  209  git commit -m "First Commit"
+  210  ssh-keygen -t rsa -b 2048
+  211  ssh-keygen -t rsa -b 2048
+  212  nano ../../../../../../.ssh/id_rsa.pub
+  213  nano ../../../../../../.ssh/id_rsa.pub
+  214  nano ../../../../../../.ssh/id_rsa
+  215  cat ../../../../../../.ssh/id_rsa.pub
+  216  ssh-keygen -t rsa -b 2048
+  217  ssh-keygen -t rsa -b 2048
+  218  cat ../../../../../../.ssh/id_rsa.pub
+  219  git remote add sshAMMI git@github.com:Aba17/Git-assignment.git
+  220  git remote -v
+  221  git push -u master
+  222  git branch
+  223  git push 
+  224  git push -u sshAMMI master
+  225  history > myCommads
+  226  history > myCommands.txt
+  227  ls
+  228  rm myCommads
+  229  ls
+  230  git status
+  231  ls
+  232  nano myCommands.txt
+  233  history .
+  234  history -a
+  235  man history
+  236  info history
+  237  history 50 
+  238  history *
+  239  history --all
+  240  rm myCommands.txt
+  241  ls
